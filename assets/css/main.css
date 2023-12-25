@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+
+.logo > img{
+	width: 250px;
+    object-fit: cover;
+}
+
+
 ol, ul {
 	list-style: none;
 }
